@@ -15,7 +15,7 @@
           </div>
 
         </div>
-        <div class="shadow-md bg-pink-300 p-10 text-center rounded">
+        <div class="shadow-md bg-pink-200 p-10 text-center rounded">
             <h3 class="text-3xl text-pink-900 font-bold mb-4">
                 Deaths
             </h3>
